@@ -1,6 +1,8 @@
-# Airline Passenger Satisfaction Dashboard
+# ✈️ Airline Passenger Satisfaction Dashboard
 
-An interactive dashboard built with Python, Streamlit, Pandas and Plotly.
+🚀 **[View Live Dashboard](https://airline-passenger-satisfaction-dashboard-9enywzuzeprw4xh3aq969.streamlit.app/)**
+
+An interactive Streamlit dashboard exploring airline passenger satisfaction, service quality, and flight delays.
 
 **Current status:** Section 1 (Executive Overview) is complete. The other
 sections are planned.
